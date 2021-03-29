@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365565743073",
+    "firebase_url": "https://gatentry-88715.firebaseio.com",
+    "project_id": "gatentry-88715",
+    "storage_bucket": "gatentry-88715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365565743073:android:8b4e4c3d631485f6984ca0",
+        "android_client_info": {
+          "package_name": "com.wiztech.GatEntry_V2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365565743073-616a0h6dsphlm3088ra517kpfm72inpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wiztech.GatEntry_V2",
+            "certificate_hash": "b1df105065e21b81ef801db31455056b803df0b7"
+          }
+        },
+        {
+          "client_id": "365565743073-ro3ar3e8donhjtdi3hhnhplnj0j63tba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDtO6USslDLJpAgcTd-LV8tjvr1W9XdjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365565743073-ro3ar3e8donhjtdi3hhnhplnj0j63tba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
